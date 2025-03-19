@@ -1,0 +1,16 @@
+C:\Users\mm324\source\repos\iphone\iphone\bin\Debug\net8.0-windows\iphone.exe
+C:\Users\mm324\source\repos\iphone\iphone\bin\Debug\net8.0-windows\iphone.deps.json
+C:\Users\mm324\source\repos\iphone\iphone\bin\Debug\net8.0-windows\iphone.runtimeconfig.json
+C:\Users\mm324\source\repos\iphone\iphone\bin\Debug\net8.0-windows\iphone.dll
+C:\Users\mm324\source\repos\iphone\iphone\bin\Debug\net8.0-windows\iphone.pdb
+C:\Users\mm324\source\repos\iphone\iphone\obj\Debug\net8.0-windows\iphone.Form1.resources
+C:\Users\mm324\source\repos\iphone\iphone\obj\Debug\net8.0-windows\iphone.csproj.GenerateResource.cache
+C:\Users\mm324\source\repos\iphone\iphone\obj\Debug\net8.0-windows\iphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm324\source\repos\iphone\iphone\obj\Debug\net8.0-windows\iphone.AssemblyInfoInputs.cache
+C:\Users\mm324\source\repos\iphone\iphone\obj\Debug\net8.0-windows\iphone.AssemblyInfo.cs
+C:\Users\mm324\source\repos\iphone\iphone\obj\Debug\net8.0-windows\iphone.csproj.CoreCompileInputs.cache
+C:\Users\mm324\source\repos\iphone\iphone\obj\Debug\net8.0-windows\iphone.dll
+C:\Users\mm324\source\repos\iphone\iphone\obj\Debug\net8.0-windows\refint\iphone.dll
+C:\Users\mm324\source\repos\iphone\iphone\obj\Debug\net8.0-windows\iphone.pdb
+C:\Users\mm324\source\repos\iphone\iphone\obj\Debug\net8.0-windows\iphone.genruntimeconfig.cache
+C:\Users\mm324\source\repos\iphone\iphone\obj\Debug\net8.0-windows\ref\iphone.dll
