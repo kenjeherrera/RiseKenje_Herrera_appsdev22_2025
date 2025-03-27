@@ -1,0 +1,6 @@
+C:\Users\kenje\source\repos\SimpleFormsApp\SimpleFormsApp\obj\Release\net8.0-windows\SimpleFormsApp.Form1.resources
+C:\Users\kenje\source\repos\SimpleFormsApp\SimpleFormsApp\obj\Release\net8.0-windows\SimpleFormsApp.csproj.GenerateResource.cache
+C:\Users\kenje\source\repos\SimpleFormsApp\SimpleFormsApp\obj\Release\net8.0-windows\SimpleFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenje\source\repos\SimpleFormsApp\SimpleFormsApp\obj\Release\net8.0-windows\SimpleFormsApp.AssemblyInfoInputs.cache
+C:\Users\kenje\source\repos\SimpleFormsApp\SimpleFormsApp\obj\Release\net8.0-windows\SimpleFormsApp.AssemblyInfo.cs
+C:\Users\kenje\source\repos\SimpleFormsApp\SimpleFormsApp\obj\Release\net8.0-windows\SimpleFormsApp.csproj.CoreCompileInputs.cache
