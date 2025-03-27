@@ -1,0 +1,6 @@
+C:\Users\kenje\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.Form1.resources
+C:\Users\kenje\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.csproj.GenerateResource.cache
+C:\Users\kenje\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenje\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.AssemblyInfoInputs.cache
+C:\Users\kenje\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.AssemblyInfo.cs
+C:\Users\kenje\source\repos\SimpleFormsAppWithComboBox\SimpleFormsAppWithComboBox\obj\Debug\net8.0-windows\SimpleFormsAppWithComboBox.csproj.CoreCompileInputs.cache
